@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import javax.sound.sampled.*;
 public class App {
-    
+    //komentarer
     public static void main(String[] args) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
         String name;
         Scanner scan = new Scanner(System.in);
