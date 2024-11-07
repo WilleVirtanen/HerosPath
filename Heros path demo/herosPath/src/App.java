@@ -18,7 +18,7 @@ public class App {
         Clip clip = AudioSystem.getClip();
         clip.open(audioStream);
         clip.start();
-
+//försök
 
         System.out.println("  ___ ___                                            __  .__     ");
         System.out.println(" /   |   \\   ___________  ____  ______ ___________ _/  |_|  |__  ");
